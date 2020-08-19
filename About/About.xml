@@ -3,6 +3,6 @@
   <name>Pep In Your Step</name>
   <author>dninemfive</author>
   <packageId>dninemfive.pepinyourstep</packageId>
-  <supportedVersions><li>1.0</li><li>1.1</li></supportedVersions>
+  <supportedVersions><li>1.0</li><li>1.1</li><li>1.2</li></supportedVersions>
   <description>Put a little pep in your step! Makes happy pawns move and work faster, and slows down sad pawns.</description>
 </ModMetaData>
