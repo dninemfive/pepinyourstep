@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
     <identifier>D9PepInYourStep</identifier>
-    <version>1.1.1</version>
+    <version>1.1.2</version>
     <dependencies/>
     <loadAfter/>
     <suggests/>
     <showCrossPromotions>true</showCrossPromotions>
-    <manifestUri>https://raw.githubusercontent.com/dninemfive/pepinyourstep/master/About/Manifest.xml</manifestUri>
+    <manifestUri>https://raw.githubusercontent.com/dninemfive/pepinyourstep/master/About/Main.xml</manifestUri>
     <downloadUri>https://github.com/dninemfive/pepinyourstep/releases/latest</downloadUri>
 </Manifest>
